@@ -1,0 +1,6 @@
+{
+  "name": "Daily Symptom Log",
+  "description": "A beautiful, calming app to track daily symptoms, sleep, and nutrition with color-coded historical calendars and easy doctor summary reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
