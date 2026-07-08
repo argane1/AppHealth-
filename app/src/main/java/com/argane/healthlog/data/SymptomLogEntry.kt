@@ -11,7 +11,7 @@ data class SymptomLogEntry(
     val diet: String,            // What they ate
     val sleepHours: Float,       // Sleep duration in hours
     val sleepQuality: Int,       // 1 to 5 (1 = Poor, 5 = Excellent)
-    val notes: String,            // General optional notes
+    val notes: String,           // General optional notes
     val pulse: Int? = null,
     val bloodGlucose: Float? = null,
     val weight: Float? = null
