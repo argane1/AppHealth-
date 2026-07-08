@@ -153,6 +153,14 @@ implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.9.0")
 3. **Maintainability**: Clean separation between UI, business logic, and data layers
 4. **Scalability**: Easy to add new features without modifying existing code
 
+## App Screenshots
+
+<p align="center">
+  <img src="assets/1.png" width="30%" alt="Daily Log Screen" />
+  <img src="assets/2.png" width="30%" alt="History Calendar Screen" />
+  <img src="assets/3.png" width="30%" alt="Doctor Report Panel" />
+</p>
+
 ---
 
 ## 📝 License
